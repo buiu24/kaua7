@@ -1,0 +1,88 @@
+
+
+.app {
+  padding: 20px;
+}
+
+.titulo_cadastro {
+  color: #fff;
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.lista-animais {
+  margin-top: 20px;
+}
+
+.lista-animais ul {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-animais li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.lista-animais img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+.app {
+  background: #F3F5F6;
+}
+
+.botao1 {
+  background-color: #FFD57E; 
+}
+
+.botao1:hover {
+  background-color: #FFC94F; 
+}
+
+button {
+  background-color: #FFB566;
+}
+
+button:hover {
+  background-color: #FF9F33; 
+}
+
+.lista-animais li {
+  background-color: #CFFFE5; 
+}
+
+.lista-animais li:hover {
+  background-color: #9DFFC9; 
+}
